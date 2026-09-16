@@ -153,16 +153,6 @@ dependencies {
     testImplementation 'org.testcontainers:testcontainers-junit-jupiter:2.0.2'
     testImplementation 'org.junit-pioneer:junit-pioneer:2.2.0'
 
-    implementation 'org.postgresql:postgresql'
 
-<<<<<<< HEAD
 implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0'
-=======
-    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-    implementation 'org.springframework.boot:spring-boot-starter-web'
-    implementation 'org.springframework.boot:spring-boot-starter-validation'
-
-    implementation 'software.amazon.awssdk:s3:2.21.40'
-
->>>>>>> 034ef00 (feat: rattrapage Prog4)
 }
